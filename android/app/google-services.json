@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "656860785021",
+    "project_id": "buybook-65b46",
+    "storage_bucket": "buybook-65b46.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656860785021:android:793f76ebb22d547ae04414",
+        "android_client_info": {
+          "package_name": "com.example.buybook"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBajk_8jROOX0WP-f3ZLmG91xPA-0OGZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:656860785021:android:e5cd423ad299d9a2e04414",
+        "android_client_info": {
+          "package_name": "com.example.buybookapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBajk_8jROOX0WP-f3ZLmG91xPA-0OGZQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
